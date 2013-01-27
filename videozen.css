@@ -1,0 +1,21 @@
+#toplevel_page_videozen-key-config.wp-menu-open div.wp-menu-image, 
+#toplevel_page_videozen-key-config div.wp-menu-image, 
+#toplevel_page_videozen_conf.wp-menu-open div.wp-menu-image, 
+#toplevel_page_videozen_conf div.wp-menu-image {
+    background: url("videozenadmin.png") no-repeat scroll 6px -28px transparent;
+}
+
+#icon-videozen {
+	background: url("videozenadmin32.png") no-repeat scroll transparent;
+}
+
+.vz-format-list li {
+  border-bottom: 1px solid #999;
+  margin: 0;
+  padding-top: 10px;
+  overflow: hidden;
+}
+.vz-format-list .download-icon {
+  margin-top: -10px;
+  float: right;
+}
